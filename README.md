@@ -1,2 +1,4 @@
 # docker-gobot
-Discord bot image ( using bwmarrin/discordgo )
+Discord bot image ( using [bwmarrin/discordgo][discordgo] )
+
+[discordgo]:https://github.com/bwmarrin/discordgo
